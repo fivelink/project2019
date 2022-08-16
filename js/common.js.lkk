@@ -7,5 +7,5 @@ var goPage1=function(u){
     location.href=u;
 }
 var goPage2=function(u){
-    location.href=u;
+    location.href=u;//
 }
