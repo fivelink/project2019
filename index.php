@@ -5,7 +5,7 @@
 this is test page!!!
 
 <hr>
-<b>aaaaa b</b>
+<b>aaaaa bb</b>
 
 <? echo array_diff(array(1,2), array(1,3))?>
 
