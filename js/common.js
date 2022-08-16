@@ -8,4 +8,4 @@ var goPage1=function(u){
 }
 var goPage2=function(u){
     location.href=u;
-}
+}////
