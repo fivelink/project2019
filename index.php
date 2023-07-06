@@ -9,7 +9,7 @@ this is test page!!!
 
 <? echo array_diff(array(1,2), array(1,3))?>
 
-
+머지 두번째
 <? echo "echo";?>
 this is TexT Lib
 </body>
