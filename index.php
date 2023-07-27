@@ -12,5 +12,13 @@ this is test page!!!
 머지 두번째
 <? echo "echo";?>
 this is TexT Lib
+
+
+
+
+
+  <footer>
+    the end.
+  </footer>
 </body>
 </html>
