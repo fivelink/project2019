@@ -22,3 +22,15 @@
 *.key
 
 js/*.lkk
+.idea/*.*
+.gitignore/*.*
+.github/*.*
+.settings/*.*
+!/.gitignore
+!/.github/
+!/.idea/
+!/.settings/
+!/.buildpath
+!/.gitignore
+!/.project
+!/project2019.iml
